@@ -1,16 +1,16 @@
-## Hi there 👋
+# Kyro ⚡
 
-<!--
-**Kyro-gif/Kyro-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent tech & software brand building web platforms, desktop & mobile applications, cloud-backed tools, and gaming/server ecosystems.
 
-Here are some ideas to get you started:
+### 🧩 Core Focus Areas
+- **Web & Apps:** React, Next.js, TypeScript, HTML, CSS, Flutter
+- **Desktop, Mobile & Systems:** Electron, Python, Java, Linux (Ubuntu) & Windows CLI
+- **Backend & Infrastructure:** Supabase, Cloudflare R2, custom tooling & automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects & Initiatives
+- Experimental web applications and custom software tools
+- Desktop & mobile utilities and launcher/emulator concepts
+- Cloud storage workflows, server setups, and community projects
+
+### 📫 Connect with Kyro
+- GitHub: [github.com/Kyro-gif](https://github.com/Kyro-gif)
